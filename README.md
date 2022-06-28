@@ -1,7 +1,7 @@
 # bmi-rechner
 BMI-Rechner mit Daten aus Wikipedia
 
-Ja, auch dieses Programm wurde garantiert scho unzählige Male gemacht und auf GitHub hochgeladen.
+Ja, auch dieses Programm wurde garantiert schon unzählige Male gemacht und auf GitHub hochgeladen.
 
 Wir sind KEINE Ärzte, daher ist unser BMI-Rechner lediglich eine Annäherung und wir übernehmen absolut kein Gewähr und/oder Verantwortung.
 
