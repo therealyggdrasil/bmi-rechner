@@ -2,6 +2,8 @@ weight = 0
 size = 0
 bmi = 0
 
+print()
+print()
 print('Wir unterscheiden nicht zwischen männlich und weiblich.')
 print('Ärzte sind wir auch nicht und daher ist diese Auswertung nur eine ungefähre Angabe ohne Gewähr!')
 print()
